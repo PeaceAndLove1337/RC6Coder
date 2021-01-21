@@ -1,0 +1,12 @@
+D:\Projects\LearningProjects\RC6Coder\RC6Coder\bin\Debug\RC6Coder.exe.config
+D:\Projects\LearningProjects\RC6Coder\RC6Coder\bin\Debug\RC6Coder.exe
+D:\Projects\LearningProjects\RC6Coder\RC6Coder\bin\Debug\RC6Coder.pdb
+D:\Projects\LearningProjects\RC6Coder\RC6Coder\obj\Debug\RC6Coder.AboutBox.resources
+D:\Projects\LearningProjects\RC6Coder\RC6Coder\obj\Debug\RC6Coder.FileModeForm.resources
+D:\Projects\LearningProjects\RC6Coder\RC6Coder\obj\Debug\RC6Coder.Form1.resources
+D:\Projects\LearningProjects\RC6Coder\RC6Coder\obj\Debug\RC6Coder.Properties.Resources.resources
+D:\Projects\LearningProjects\RC6Coder\RC6Coder\obj\Debug\RC6Coder.TextModeForm.resources
+D:\Projects\LearningProjects\RC6Coder\RC6Coder\obj\Debug\RC6Coder.csproj.GenerateResource.cache
+D:\Projects\LearningProjects\RC6Coder\RC6Coder\obj\Debug\RC6Coder.csproj.CoreCompileInputs.cache
+D:\Projects\LearningProjects\RC6Coder\RC6Coder\obj\Debug\RC6Coder.exe
+D:\Projects\LearningProjects\RC6Coder\RC6Coder\obj\Debug\RC6Coder.pdb
